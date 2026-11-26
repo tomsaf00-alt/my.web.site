@@ -1,0 +1,6 @@
+{
+  "name": "SellerMath",
+  "description": "Free online fee, profit, margin, markup, ROI, and break-even calculators for eBay, Etsy, Amazon FBA, PayPal, and Stripe sellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
